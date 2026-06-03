@@ -5,11 +5,9 @@
 
 - 🌱 I'm currently learning **modern tech tools**
 
-- ⚡ I’m looking to collaborate on [Medical report summarizer](https://github.com/bhoomika-sg/Clinical-Report-Summarizer)
-
 - 👨‍💻 All of my projects are available at [https://github.com/bhoomika-sg](https://github.com/bhoomika-sg)
 
-- 📫 You can reach me at **sgbhoomika05@gmail.com**
+- 📫 You can reach me at **bhoomi.s.gangolli@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
